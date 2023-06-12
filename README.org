@@ -1,0 +1,10 @@
+* css-selectors
+
+A common lisp library that implements a css3 selector query language on CXML DOM documents and Nodes
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/css-selectors.git   |
+| commit  | 0237bee  |
+| systems | css-selectors |
+|---------+-------------------------------------------|
+
